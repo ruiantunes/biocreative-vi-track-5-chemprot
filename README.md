@@ -86,7 +86,7 @@ If you use this code or data in your work, please cite
 [our publication](https://doi.org/10.1093/database/baz095):
 
 ```
-@article{Antunes2019a,
+@article{antunes2019a,
   author    = {Antunes, Rui and Matos, S{\'e}rgio},
   journal   = {Database},
   month     = oct,
