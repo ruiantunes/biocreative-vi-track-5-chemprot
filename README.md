@@ -52,8 +52,8 @@ The datasets were pre-processed (tokenization, sentence splitting,
 part-of-speech tagging, and dependency parsing) by the [Turku Event
 Extraction System (TEES)](https://github.com/jbjorne/TEES).
 Available for download as `data.zip`
-[\[Mirror 1\]](https://uapt33090-my.sharepoint.com/:f:/g/personal/ruiantunes_ua_pt/EuElDML6aytMtyxAHuwK63wBbraItRDtadpegOZOPVa2Og?e=FRkNjT)
-[\[Mirror 2\]](https://drive.google.com/drive/folders/1psUqCTxik1mWZ8rNbmrLVYtoTmMdd9Np?usp=sharing):
+[\[Mirror 1\]](https://1drv.ms/f/c/0801388B48D3D169/IgDjG6VDxcvpTYHvslUnZ0-0AaPPVPNhGPJZcuKOUclkSuQ)
+[\[Mirror 2\]](https://drive.google.com/drive/folders/1psUqCTxik1mWZ8rNbmrLVYtoTmMdd9Np):
 
 * [ChemProt](https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vi/track-5/):
   `sample`, `training`, `development`, and `test_gs`.
@@ -65,8 +65,8 @@ Available for download as `data.zip`
 Our word embedding models were created from PubMed English abstracts.
 We also pre-trained part-of-speech and dependency embedding vectors from
 the ChemProt dataset. Available for download as `word2vec.zip`
-[\[Mirror 1\]](https://uapt33090-my.sharepoint.com/:f:/g/personal/ruiantunes_ua_pt/EuElDML6aytMtyxAHuwK63wBbraItRDtadpegOZOPVa2Og?e=FRkNjT)
-[\[Mirror 2\]](https://drive.google.com/drive/folders/1psUqCTxik1mWZ8rNbmrLVYtoTmMdd9Np?usp=sharing).
+[\[Mirror 1\]](https://1drv.ms/f/c/0801388B48D3D169/IgDjG6VDxcvpTYHvslUnZ0-0AaPPVPNhGPJZcuKOUclkSuQ)
+[\[Mirror 2\]](https://drive.google.com/drive/folders/1psUqCTxik1mWZ8rNbmrLVYtoTmMdd9Np).
 
 We also tested the word embeddings model created by Chen _et al._ (2018)
 [\[Paper\]](https://arxiv.org/abs/1810.09302)
@@ -76,8 +76,8 @@ We also tested the word embeddings model created by Chen _et al._ (2018)
 
 Statistics about the datasets, and some prediction files.
 Available for download as `supp.zip`
-[\[Mirror 1\]](https://uapt33090-my.sharepoint.com/:f:/g/personal/ruiantunes_ua_pt/EuElDML6aytMtyxAHuwK63wBbraItRDtadpegOZOPVa2Og?e=FRkNjT)
-[\[Mirror 2\]](https://drive.google.com/drive/folders/1psUqCTxik1mWZ8rNbmrLVYtoTmMdd9Np?usp=sharing).
+[\[Mirror 1\]](https://1drv.ms/f/c/0801388B48D3D169/IgDjG6VDxcvpTYHvslUnZ0-0AaPPVPNhGPJZcuKOUclkSuQ)
+[\[Mirror 2\]](https://drive.google.com/drive/folders/1psUqCTxik1mWZ8rNbmrLVYtoTmMdd9Np).
 
 
 ## Reference
